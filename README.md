@@ -8,7 +8,7 @@ Linux setup:
 Install a build essentials to allow you to compile and run
 these programs from the command line.
 
-sudo apt-get install -y build-essentials 
+sudo apt-get install -y build-essential
 
 To run JAVA programs install Java JDK:
 
